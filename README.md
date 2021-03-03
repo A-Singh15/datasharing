@@ -1,3 +1,5 @@
+## This is a markdown file
+
 How to share data with a statistician
 ===========
 
